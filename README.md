@@ -1,2 +1,2 @@
 # Coal-Labwork
- This repository have my lab works which I performed in COAL course,
+ This repository have all of my lab works which I performed in Computer Oriented Assembly Language (COAL) course.
